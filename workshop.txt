@@ -26,5 +26,5 @@ description=[h2]Thanks to[/h2]
 description=[b]Riko Prushka[/b] for the awesome poster!
 description=
 description=[b]The project on Github:[/b] https://github.com/Konijima/PZ-World-Time-Manager
-tags=Build 41;Interface;Misc;Multiplayer;Realistic
+tags=Build 41;Build 42;Interface;Misc;Multiplayer;Realistic
 visibility=public
